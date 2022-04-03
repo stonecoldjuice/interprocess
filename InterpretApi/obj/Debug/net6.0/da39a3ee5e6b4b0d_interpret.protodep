@@ -1,0 +1,2 @@
+obj\Debug\net6.0/Interpret.cs \
+obj\Debug\net6.0/InterpretGrpc.cs: interpret.proto

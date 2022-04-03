@@ -1,0 +1,12 @@
+C:\workspace\wui3\Predict\bin\Debug\net6.0\Predict.deps.json
+C:\workspace\wui3\Predict\bin\Debug\net6.0\Predict.dll
+C:\workspace\wui3\Predict\bin\Debug\net6.0\Predict.pdb
+C:\workspace\wui3\Predict\obj\Debug\net6.0\Predict.csproj.AssemblyReference.cache
+C:\workspace\wui3\Predict\obj\Debug\net6.0\Predict.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\wui3\Predict\obj\Debug\net6.0\Predict.AssemblyInfoInputs.cache
+C:\workspace\wui3\Predict\obj\Debug\net6.0\Predict.AssemblyInfo.cs
+C:\workspace\wui3\Predict\obj\Debug\net6.0\Predict.csproj.CoreCompileInputs.cache
+C:\workspace\wui3\Predict\obj\Debug\net6.0\Predict.dll
+C:\workspace\wui3\Predict\obj\Debug\net6.0\refint\Predict.dll
+C:\workspace\wui3\Predict\obj\Debug\net6.0\Predict.pdb
+C:\workspace\wui3\Predict\obj\Debug\net6.0\ref\Predict.dll

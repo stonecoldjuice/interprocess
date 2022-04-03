@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IF6jnsBWSI8kzhiDX28Gta+VTZIRFCaZwMzBYwtxeFOp0LxZLsliOp03Z9Ov8MivNtSI9gfng7t5u5vxwx6q8A==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\wui3\\InterpretApi\\InterpretApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanmo\\.nuget\\packages\\google.protobuf\\3.20.0\\google.protobuf.3.20.0.nupkg.sha512",
+    "C:\\Users\\hanmo\\.nuget\\packages\\grpc\\2.45.0\\grpc.2.45.0.nupkg.sha512",
+    "C:\\Users\\hanmo\\.nuget\\packages\\grpc.core\\2.45.0\\grpc.core.2.45.0.nupkg.sha512",
+    "C:\\Users\\hanmo\\.nuget\\packages\\grpc.core.api\\2.45.0\\grpc.core.api.2.45.0.nupkg.sha512",
+    "C:\\Users\\hanmo\\.nuget\\packages\\grpc.tools\\2.45.0\\grpc.tools.2.45.0.nupkg.sha512",
+    "C:\\Users\\hanmo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

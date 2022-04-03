@@ -1,0 +1,12 @@
+C:\workspace\wui3\InterpretApi\bin\Debug\net6.0\InterpretApi.deps.json
+C:\workspace\wui3\InterpretApi\bin\Debug\net6.0\InterpretApi.dll
+C:\workspace\wui3\InterpretApi\bin\Debug\net6.0\InterpretApi.pdb
+C:\workspace\wui3\InterpretApi\obj\Debug\net6.0\InterpretApi.csproj.AssemblyReference.cache
+C:\workspace\wui3\InterpretApi\obj\Debug\net6.0\InterpretApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\wui3\InterpretApi\obj\Debug\net6.0\InterpretApi.AssemblyInfoInputs.cache
+C:\workspace\wui3\InterpretApi\obj\Debug\net6.0\InterpretApi.AssemblyInfo.cs
+C:\workspace\wui3\InterpretApi\obj\Debug\net6.0\InterpretApi.csproj.CoreCompileInputs.cache
+C:\workspace\wui3\InterpretApi\obj\Debug\net6.0\InterpretApi.dll
+C:\workspace\wui3\InterpretApi\obj\Debug\net6.0\refint\InterpretApi.dll
+C:\workspace\wui3\InterpretApi\obj\Debug\net6.0\InterpretApi.pdb
+C:\workspace\wui3\InterpretApi\obj\Debug\net6.0\ref\InterpretApi.dll

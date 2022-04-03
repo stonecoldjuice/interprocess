@@ -1,0 +1,2 @@
+obj\Debug\net6.0/Diagnosis.cs \
+obj\Debug\net6.0/DiagnosisGrpc.cs: diagnosis.proto

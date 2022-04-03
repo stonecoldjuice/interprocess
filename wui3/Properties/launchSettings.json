@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "wui3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "wui3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
